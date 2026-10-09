@@ -1,0 +1,6 @@
+{
+  "name": "Nariniti — AI Women Entrepreneurship Platform",
+  "description": "An AI-powered entrepreneurship assistant for women, guiding from business discovery and cost estimation to government scheme eligibility and 30-day action plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
